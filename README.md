@@ -1,3 +1,3 @@
 # debianday
 
-Palestra sobre github no debianday da Fatec-Tq 2
+Palestra sobre github no debianday da Fatec-Tq
